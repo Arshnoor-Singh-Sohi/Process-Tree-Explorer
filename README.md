@@ -1,7 +1,6 @@
 # Process Tree Explorer
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/username/Process-Tree-Explorer/main/img/logo.png" alt="Process Tree Explorer Logo" width="200"/>
   
   ![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)
   ![Language: C](https://img.shields.io/badge/Language-C-blue.svg)
